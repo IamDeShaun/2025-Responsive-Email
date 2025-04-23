@@ -94,3 +94,14 @@ img {
     border-radius: 5px;
     font-weight: bold;
 }
+
+.btn:hover {
+    color: white;
+    opacity: .8;
+    transform: scale(1.02);
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
